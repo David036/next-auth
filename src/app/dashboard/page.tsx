@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function Dashboard() {
-  return (
-    <div>dashboard page</div>
-  )
+  return <div>Need to login</div>;
 }

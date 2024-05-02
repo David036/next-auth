@@ -17,7 +17,7 @@ export default async function RootLayout({
     <html lang="en">
       <body className={josefinSans.className}>
         <Nav />
-        <div>{children}</div>
+        {children}
       </body>
     </html>
   );
